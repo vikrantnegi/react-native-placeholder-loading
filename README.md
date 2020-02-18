@@ -2,6 +2,8 @@
 
 > Using Placeholder Loaders in React Native apps using rn-placeholder
 
+<img src="./assets/placeholderLoading.gif" width="300">
+
 ## Clone the repo
 
 ```bash
